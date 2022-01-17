@@ -1,0 +1,15 @@
+/Users/guygrayzer/Desktop/c#/bin/Debug/net5.0/c#.deps.json
+/Users/guygrayzer/Desktop/c#/bin/Debug/net5.0/c#.runtimeconfig.json
+/Users/guygrayzer/Desktop/c#/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/Users/guygrayzer/Desktop/c#/bin/Debug/net5.0/c#.dll
+/Users/guygrayzer/Desktop/c#/bin/Debug/net5.0/ref/c#.dll
+/Users/guygrayzer/Desktop/c#/bin/Debug/net5.0/c#.pdb
+/Users/guygrayzer/Desktop/c#/obj/Debug/net5.0/c#.csprojAssemblyReference.cache
+/Users/guygrayzer/Desktop/c#/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guygrayzer/Desktop/c#/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/Users/guygrayzer/Desktop/c#/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/Users/guygrayzer/Desktop/c#/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/Users/guygrayzer/Desktop/c#/obj/Debug/net5.0/c#.dll
+/Users/guygrayzer/Desktop/c#/obj/Debug/net5.0/ref/c#.dll
+/Users/guygrayzer/Desktop/c#/obj/Debug/net5.0/c#.pdb
+/Users/guygrayzer/Desktop/c#/obj/Debug/net5.0/c#.genruntimeconfig.cache
